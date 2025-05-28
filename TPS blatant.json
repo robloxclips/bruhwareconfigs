@@ -1,0 +1,265 @@
+{
+  "objects": [
+    {
+      "idx": "IN",
+      "type": "Toggle",
+      "value": false
+    },
+    {
+      "idx": "SP",
+      "type": "Toggle",
+      "value": false
+    },
+    {
+      "idx": "boxes",
+      "type": "Toggle",
+      "value": false
+    },
+    {
+      "idx": "Names",
+      "type": "Toggle",
+      "value": true
+    },
+    {
+      "idx": "StickyWall",
+      "type": "Toggle",
+      "value": true
+    },
+    {
+      "idx": "HC",
+      "type": "Toggle",
+      "value": true
+    },
+    {
+      "idx": "HealthToggle",
+      "type": "Toggle",
+      "value": false
+    },
+    {
+      "idx": "rainbow2",
+      "type": "Toggle",
+      "value": false
+    },
+    {
+      "idx": "fill",
+      "type": "Toggle",
+      "value": false
+    },
+    {
+      "idx": "ShowTeam",
+      "type": "Toggle",
+      "value": true
+    },
+    {
+      "idx": "FovToggle",
+      "type": "Toggle",
+      "value": false
+    },
+    {
+      "idx": "TeamColor",
+      "type": "Toggle",
+      "value": true
+    },
+    {
+      "idx": "Tracers",
+      "type": "Toggle",
+      "value": true
+    },
+    {
+      "idx": "rainbow",
+      "type": "Toggle",
+      "value": false
+    },
+    {
+      "idx": "TC",
+      "type": "Toggle",
+      "value": false
+    },
+    {
+      "idx": "WC",
+      "type": "Toggle",
+      "value": true
+    },
+    {
+      "idx": "Aimbot",
+      "type": "Toggle",
+      "value": true
+    },
+    {
+      "idx": "ToggleMode",
+      "type": "Toggle",
+      "value": true
+    },
+    {
+      "idx": "HealthText",
+      "type": "Toggle",
+      "value": false
+    },
+    {
+      "idx": "Distance",
+      "type": "Toggle",
+      "value": true
+    },
+    {
+      "idx": "PK",
+      "type": "Toggle",
+      "value": false
+    },
+    {
+      "idx": "espenabled",
+      "type": "Toggle",
+      "value": true
+    },
+    {
+      "idx": "StickyAim",
+      "type": "Toggle",
+      "value": true
+    },
+    {
+      "idx": "IC",
+      "type": "Toggle",
+      "value": false
+    },
+    {
+      "idx": "DC",
+      "type": "Toggle",
+      "value": false
+    },
+    {
+      "idx": "Prediction",
+      "type": "Slider",
+      "value": "0.04"
+    },
+    {
+      "idx": "XSmoothness",
+      "type": "Slider",
+      "value": "3.91"
+    },
+    {
+      "idx": "XSmoothness",
+      "type": "Slider",
+      "value": "3.0"
+    },
+    {
+      "idx": "YSmoothness",
+      "type": "Slider",
+      "value": "3.0"
+    },
+    {
+      "idx": "DCS",
+      "type": "Slider",
+      "value": "400"
+    },
+    {
+      "idx": "Fillt",
+      "type": "Slider",
+      "value": "0.1"
+    },
+    {
+      "idx": "ESPTeamDropdown",
+      "type": "Dropdown"
+    },
+    {
+      "idx": "xoffset",
+      "type": "Slider",
+      "value": "0"
+    },
+    {
+      "idx": "panickey",
+      "type": "KeyPicker",
+      "key": null,
+      "mode": "Toggle"
+    },
+    {
+      "idx": "yoffset",
+      "type": "Slider",
+      "value": "0"
+    },
+    {
+      "idx": "HitPart",
+      "type": "Dropdown",
+      "mutli": false,
+      "value": "Head"
+    },
+    {
+      "idx": "ESPPlayerDropdown",
+      "type": "Dropdown"
+    },
+    {
+      "idx": "healttc",
+      "type": "ColorPicker",
+      "value": "ffffff"
+    },
+    {
+      "idx": "NamesC",
+      "type": "ColorPicker",
+      "value": "ffffff"
+    },
+    {
+      "idx": "SPD",
+      "type": "Slider",
+      "value": "0"
+    },
+    {
+      "idx": "TracerC",
+      "type": "ColorPicker",
+      "value": "ffffff"
+    },
+    {
+      "idx": "method",
+      "type": "Dropdown",
+      "mutli": false,
+      "value": "Method1"
+    },
+    {
+      "idx": "DistanceC",
+      "type": "ColorPicker",
+      "value": "ffffff"
+    },
+    {
+      "idx": "PlayerDropdown",
+      "type": "Dropdown"
+    },
+    {
+      "idx": "FillC",
+      "type": "ColorPicker",
+      "value": "ffffff"
+    },
+    {
+      "idx": "BoxesC",
+      "type": "ColorPicker",
+      "value": "ffffff"
+    },
+    {
+      "idx": "KeyPicker",
+      "type": "KeyPicker",
+      "key": null,
+      "mode": "Toggle"
+    },
+    {
+      "idx": "TeamDropdown",
+      "type": "Dropdown"
+    },
+    {
+      "idx": "FovSlider",
+      "type": "Slider",
+      "value": "150"
+    },
+    {
+      "idx": "YSmoothness",
+      "type": "Slider",
+      "value": "3.0"
+    },
+    {
+      "idx": "Aim Method",
+      "type": "Dropdown",
+      "mutli": false,
+      "value": "Mouse"
+    },
+    {
+      "idx": "FovC",
+      "type": "ColorPicker",
+      "value": "ffffff"
+    }
+  ]
+}
